@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Slice of thoughts</title>
-    <link>http://localhost:1313/</link>
+    <link>http://soh-i.github.io/</link>
     <description>Recent content on Slice of thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 Apr 2015 21:36:09 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://soh-i.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>New blog, and SHIROBAKO</title>
-      <link>http://localhost:1313/hello/</link>
+      <link>http://soh-i.github.io/hello/</link>
       <pubDate>Wed, 08 Apr 2015 21:36:09 +0900</pubDate>
       
-      <guid>http://localhost:1313/hello/</guid>
+      <guid>http://soh-i.github.io/hello/</guid>
       <description>&lt;p&gt;これが何個目のブログなのかは分からない。作っては飽きて、書いてはこれまでのアーカイブが大きくなるにつれて、息苦しさを感じてしまった末にドメインの失効を迎えた。大げさにいえば、多くの生と死が、そこにはあったとも言える。別の言い方をすればあきっぽい、それだけかもしれない。&lt;/p&gt;
 
 &lt;p&gt;ブログには、文章を書く楽しみに加えて、作る楽しみがある。ブログを書くためにはまず、ドメイン/サブドメインを新しく考え、タイトルを考え、デザインを考え、ちまちまとCSSやHTMLを書き（あるいは最近の若者が使うイケてるstatic site generatorを調べる)、どこかのサーバーへデプロイして、おおっちゃんと書いたCSSが反映されているな、ということをしている暁には、書くことよりも何か新しいwebページを作ること、その作業工程こそが、本質的に楽しかったのかなと我に返る。記事のタイトルは&amp;rdquo;Hello world&amp;rdquo;か&amp;rdquo;Sample&amp;rdquo;になったままだ。&lt;/p&gt;
