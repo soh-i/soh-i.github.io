@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slice of thoughts</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Slice of thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Apr 2015 21:36:09 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>New blog, and SHIROBAKO</title>
+      <link>http://localhost:1313/hello/</link>
+      <pubDate>Wed, 08 Apr 2015 21:36:09 +0900</pubDate>
+      
+      <guid>http://localhost:1313/hello/</guid>
+      <description>&lt;p&gt;これが何個目のブログなのかは分からない。作っては飽きて、書いてはこれまでのアーカイブが大きくなるにつれて、息苦しさを感じてしまった末にドメインの失効を迎えた。大げさにいえば、多くの生と死が、そこにはあったとも言える。別の言い方をすればあきっぽい、それだけかもしれない。&lt;/p&gt;
+
+&lt;p&gt;ブログには、文章を書く楽しみに加えて、作る楽しみがある。ブログを書くためにはまず、ドメイン/サブドメインを新しく考え、タイトルを考え、デザインを考え、ちまちまとCSSやHTMLを書き（あるいは最近の若者が使うイケてるstatic site generatorを調べる)、どこかのサーバーへデプロイして、おおっちゃんと書いたCSSが反映されているな、ということをしている暁には、書くことよりも何か新しいwebページを作ること、その作業工程こそが、本質的に楽しかったのかなと我に返る。記事のタイトルは&amp;rdquo;Hello world&amp;rdquo;か&amp;rdquo;Sample&amp;rdquo;になったままだ。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://shirobako-anime.com&#34;&gt;SHIROBAKO&lt;/a&gt;というアニメーション業界をテーマとしたアニメ作品がある。SHIROBAKOに登場する多くのキャラクタは、監督、声優、原画、3D、制作進行、音響&amp;hellip;とそれぞれが独立した役割をもち、アニメーション製作に対するこだわりの多様性が生き生きと描かれていることが魅力的だ。そのこだわりは、時として衝突や相違を生み出すが、劇中ではほどよくデフォルメされ、よき群像劇を作り出す素地として機能している。&lt;/p&gt;
+
+&lt;p&gt;何話か忘れてしまったが、3Dイラストレーションのデザイナーが、作品の納期が迫っている時期に『また新しいプラグインを作ったんだ』というセリフを放ったことがとても印象的だった。どこか自分のことのようだった。少し呆れた同僚のカットが次に差し込まれている。たぶん、彼にとって仕事のやりがいや醍醐味は、作品を完成させることよりも、3Dアニメーションに関わる便利な道具 (plug-in)を作ることだったのだろう。&lt;/p&gt;
+
+&lt;p&gt;ブログを書くことよりも、作ることが楽しい。研究を進めているつもりが、いつの間にか書き溜めたコードをリファクタリングし、ライブラリを作って公開している。大きな目標の周りには、誘惑がとても多い。背筋を伸ばし、みるべき方向をみなくては。雲の隙間から春の日差しがのぞいている。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
